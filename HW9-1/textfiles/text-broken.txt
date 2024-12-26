@@ -1,0 +1,10 @@
+Historically, certain computer
+programs were written using
+only two digits rather than
+four to define the applicable
+year. Accordingly, the
+
+company's software may
+recognize a date using "00"
+as 1960 rather than the year
+2000.

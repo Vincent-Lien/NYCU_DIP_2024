@@ -1,0 +1,9 @@
+ponents or broken connection paths. There is no poi
+tion past the level of detail required to identify those
+Segmentation of nontrivial images is one of the mo
+processing. Segmentation accuracy determines the ev
+of computerized analysis procedures. For this reason,
+be taken to improve the probability of rugged segment
+such as industrial inspection applications, at least some
+the environment is possible at times. The experienced
+designer invariably pays considerable attention to suc
