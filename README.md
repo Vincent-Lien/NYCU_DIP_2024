@@ -40,3 +40,8 @@ All assignments are provided as Jupyter Notebooks. Open and run the notebooks us
 - [HW5-1_code.ipynb](HW5-1/HW5-1_code.ipynb)
 - [HW6-1_code.ipynb](HW6-1/HW6-1_code.ipynb)
 - [HW9-1_code.ipynb](HW9-1/HW9-1_code.ipynb)
+
+## Final Project
+
+The final project can be found at the following repository:
+- [Video Object Detection](https://github.com/Vincent-Lien/Video_object_detection.git)
